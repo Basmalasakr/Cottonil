@@ -1,0 +1,11 @@
+streamlit>=1.40
+pandas
+pyarrow
+plotly
+# anthropic   
+groq
+fpdf2
+arabic-reshaper
+python-bidi
+numpy
+lightgbm

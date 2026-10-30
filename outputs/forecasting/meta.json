@@ -1,0 +1,14 @@
+{
+  "generated": "2026-10-28T22:01:38",
+  "last_full_month": "2026-09",
+  "forecast_months": [
+    "2026-10",
+    "2026-11",
+    "2026-12"
+  ],
+  "horizon": 3,
+  "holdout_months": 6,
+  "train_months": 36,
+  "series_forecasted": 11085,
+  "assumptions": "discount = last-6-month average per series; campaign spend = same month last year"
+}
